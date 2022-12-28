@@ -1,0 +1,15 @@
+/* for nav */
+aside   {
+    list-style-position: inside;
+}
+ul {
+    list-style-position: inside;
+}
+h1 {
+    color: red;
+}
+h4 {
+    text-align: center;
+    color: goldenrod;
+}
+/* for nav */
